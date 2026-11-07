@@ -1,47 +1,48 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Maximilian%20Kolbe&fontSize=50&subtext=Cybersecurity%20Specialist%20%7C%20Ethical%20Hacker&subFontSize=20&descAlignY=62" width="100%" />
-# Hi there, I'm Maximilian 👋
+<p align="center">
+  <img src="./banner.svg" alt="Nwafor Arinze Jeremiah, Mechatronics Engineering student and aspiring cybersecurity analyst" width="100%">
+</p>
 
-### 🛡️ Cybersecurity Specialist | Threat Detection & Infrastructure Security
+## About me
 
-I am an aspiring **Cybersecurity Professional** focused on threat analysis, network defense, and vulnerability management. I actively build lab environments, perform security audits, and analyze threat vectors to safeguard systems against modern attack techniques.
+I'm a Mechatronics Engineering student at Enugu State University of Science and Technology (ESUT) and a self-employed computer and printer repair technician with 4 years of hands-on experience. Since 2024 I have been teaching myself cybersecurity, and I am now on a 12-week cybersecurity course with Tech4youth.
 
----
+I am looking for an internship or entry-level role in IT support or security operations, where I can use my hardware background and keep growing in cybersecurity.
 
-### 🔭 What I'm Focused On
-- **Defensive Security & Threat Hunting:** Monitoring traffic, analyzing logs, and configuring SIEM rule triggers.
-- **Vulnerability Assessment:** Identifying misconfigurations and applying CIS benchmarks to harden systems.
-- **Hands-On Security Labs:** Building virtual enterprise networks to simulate real-world attacks and incident response.
+## What I'm working on
 
----
+- Capturing and inspecting network traffic with Wireshark
+- Setting up Suricata to detect suspicious activity and read its alerts
+- Practising ethical penetration testing with Metasploit in controlled lab environments
+- Getting more comfortable with the Linux command line and shell scripting
 
-### 🛠️ Technical Toolkit
+## Tools I use
 
-| Category | Technologies & Tools |
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## Background
+
+| Area | Details |
 | :--- | :--- |
-| **Security & SIEM** | Splunk, Wireshark, Nmap, Burp Suite, Snort |
-| **Networking & OS** | Linux (Kali, Ubuntu), Windows Server, Active Directory, TCP/IP, Firewalls |
-| **Scripting & Automation** | Python, Bash, PowerShell |
-| **Frameworks** | MITRE ATT&CK, NIST CSF, OWASP Top 10 |
+| Hardware | Diagnosing and repairing laptops, desktops and printers; replacing RAM, storage, screens and power units |
+| Systems | Installing and configuring operating systems, drivers and software |
+| Security | Network traffic analysis, intrusion detection, vulnerability assessment basics |
+| Training | Cybersecurity course, Tech4youth (October 2026, in progress) |
+| Education | B.Eng Mechatronics Engineering, ESUT (in progress) |
 
----
+## Repositories
 
-### 🚀 Key Projects & Writeups
+| Repository | What it is |
+| :--- | :--- |
+| [LINUX-TASK](https://github.com/Nwafor-Arinze25/LINUX-TASK) | Linux command line and shell exercises |
+| [git-practice](https://github.com/Nwafor-Arinze25/git-practice) | Practice with Git and GitHub workflows |
 
-> *Check out my repository list below for full documentation, network diagrams, and writeups.*
+More lab write-ups from my Wireshark, Suricata and Metasploit practice will be added here as I finish them.
 
-- **[Active Directory Hardening Lab](https://github.com/Maximilian25-Hack)**: Deployed a domain controller, configured GPOs, and implemented least-privilege access controls.
-- **[SIEM Threat Detection Lab](https://github.com/Maximilian25-Hack)**: Ingested system logs into Splunk to build custom dashboards and alert rules for brute-force attacks.
-- **[Network Packet Analysis](https://github.com/Maximilian25-Hack)**: Analyzed captured PCAP files in Wireshark to isolate malware communication channels.
+## Contact
 
----
-
-### 📈 GitHub Stats
-
-![Maximilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maximilian25-Hack&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maximilian25-Hack&layout=compact&theme=dark)
-
----
-
-### 📫 Let's Connect
-
-- **Email:** maximiliankolb442@gmail.com
+I'm based in Enugu, Nigeria, and open to internships and entry-level roles. You can reach me through the email on my profile.
